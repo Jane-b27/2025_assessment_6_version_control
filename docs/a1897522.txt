@@ -9,6 +9,8 @@
 ### Added
 
 - Initial commit
+<<<<<<< HEAD
 -----------------------
 CHANGED: Removed high severity XXXXXXX tokens from data/a1897522.txt [Commit hash: a$a3438252c164ca49d4207ad8ca8b1d7dd2b655be] 
 CHANGED: Corrected low severity uppercase words in data/a1897522.txt [Commit hash: a$a3438252c164ca49d4207ad8ca8b1d7dd2b655be]
+
